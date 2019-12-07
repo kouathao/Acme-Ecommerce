@@ -1,0 +1,4 @@
+node_modules
+/resources/assets/sass
+/resources/assets/bower
+vendor
